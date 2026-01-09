@@ -20,6 +20,72 @@
     cursor: pointer;
 }
 
+.button_one {
+    padding: 12.50px 16px;
+    border-radius: 4px;
+    background-color: #30b868;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+/*.hero_button .button_two {
+    padding: 12.50px 16px;
+    border-radius: 4px;
+    background-color: #30b868;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}*/
+
+.btn:hover {
+    padding: 11.50px 15px;
+    border-radius: 4px;
+    color: #30b868;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid #30b868;
+    background-color: #ffffff00;
+}
+
+#banner .hero_button .button_two:hover {
+    padding: 12.50px 16px;
+    border-radius: 4px;
+    background-color: #30b868;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.special {
+    padding: 12.50px 16px;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid #30b868;
+    background-color: #30b868;
+}
+
+.special:hover {
+    padding: 12.50px 16px;
+    border-radius: 4px;
+    color: #30b868;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid #30b868;
+    background-color: #ffffff00;
+}
+
 .button_one:hover {
     background-color: #30b86900;
     border: 1px solid #ffffff;
@@ -92,7 +158,6 @@ nav .menu_items li {
     padding: 11.50px 15px;
     border-radius: 4px;
     color: #ffffff;
-    
     font-size: 16px;
     font-weight: 600;
     cursor: pointer;
